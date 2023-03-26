@@ -1,0 +1,16 @@
+Access = MSACCESS.EXE
+brave = brave.exe
+Excel = EXCEL.EXE
+chrome = chrome.exe
+Microsoft Edge = msedge.exe
+OneDrive = OneDrive.exe
+OneNote = ONENOTE.EXE
+OUtlook = OUTLOOK.EXE
+PC Healt Check Properties = PCHealthCheck.exe
+PowerPoint = POWERPOINT.EXE
+Publisher = MSPUB.EXE
+Settings = Control.exe
+Skype for Business = lync.exe
+spacedesk DRIVER Console = spacedeskConsole.exe
+Tableau 2022.2 = tableau.exe
+Word = WINWORD.EXE
